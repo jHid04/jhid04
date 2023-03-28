@@ -1,5 +1,13 @@
 ### Hi there 👋
+I am a full-stack developer with experience in using Ruby on Rails, React, SQL, HTML, and Sinatra. I completed Launch Academy which is a coding bootcamp program focused on full-stack development, where I gained a deep understanding of web development fundamentals, including working with databases using SQL, building and styling web pages using HTML and CSS, and developing web applications using Ruby on Rails and ReactJS.
 
+During the bootcamp, I worked on several projects that allowed me to hone my skills in developing web applications from scratch, including setting up databases, building front-end interfaces, and connecting everything together using various programming languages and frameworks.
+
+Aside from my passion for programming, I am also a musician. I love playing bass guitar and I often find that my creativity in music spills over into my work as a developer. I believe that my background in music has taught me valuable skills such as attention to detail, patience, and the ability to work well under pressure - all of which are essential in the field of software development.
+
+🌍  I'm based in Boston, Massachusetts
+✉️  You can contact me at jesse_hidalgo8@yahoo.com
+🚀  I'm currently working on Checkmark
 <!--
 **jHid04/jhid04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
